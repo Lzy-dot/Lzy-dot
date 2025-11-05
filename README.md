@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm Zhaoyang Li
 
+- 🌱 I'm interested in multimodal LLMs and video generation.
+- 🏫 I am a 2nd-year Ph.D. student in the Department of Automation at USTC.
+- 📖 homepage: https://lzy-dot.github.io/
 <!--
 **Lzy-dot/Lzy-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
