@@ -3,6 +3,7 @@
 - 🌱 I'm interested in multimodal LLMs and video generation.
 - 🏫 I am a 2nd-year Ph.D. student in the Department of Automation at [USTC](https://en.ustc.edu.cn/).
 - 📖 homepage: https://lzy-dot.github.io/
+- 📫 How to reach me: lizhaoyang@mail.ustc.edu.cn
 <!--
 **Lzy-dot/Lzy-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
